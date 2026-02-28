@@ -19,62 +19,97 @@
 
 ---
 
-## 🚨 Current Status: Hackathon Mode Activated 🚨
+### 🚨 Current Status: Hackathon Mode Activated 🚨
 
 I'm currently gearing up for **[DotSlash 9.0](https://hackatdotslash.co.in/)**! 💻🔥
 Catch me and my team building something innovative with zero limits at this 36-hour national-level hackathon organized by ACM NIT Surat from **March 21st - 22nd**. Let's build!
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
+
 - 🎓 Currently pursuing my degree in **Electronics and Communication Engineering** at SVNIT.
-- 🏆 Active in Competitive Programming (ICPC participant) and constantly honing my Data Structures & Algorithms skills.
+- 🏆 Active in Competitive Programming and constantly honing my Data Structures & Algorithms skills.
 - 🤝 Open-source enthusiast (recently contributed to the Strapi repository).
-- 📈 Exploring System Design, Distributed Systems, and Quantitative Finance.
+- 🧠 Exploring **Machine Learning, Artificial Intelligence, and Data Science**.
 
-## 🛠️ Tech Stack & Tools
+---
 
-**🎨 Frontend** <br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=10" alt="Frontend"/></a>
+### 🚀 Featured Projects
 
-**⚙️ Backend & Core** <br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,cpp,c&perline=10" alt="Backend"/></a>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ MockMate AI</h3>
+      <p>An intelligent, voice-based interview preparation tool engineered to simulate realistic interview environments. Leverages AI to provide dynamic mock interviews and instant feedback.</p>
+      <p align="center">
+        <a href="https://mock-mate-voice-agent.vercel.app/"><b>Live Demo ➔</b></a> | <a href="https://github.com/moizDhila52/MockMate-Voice-Agent"><b>GitHub ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏺 Basho by Shivangi</h3>
+      <p>A comprehensive, full-stack e-commerce platform developed for a premium pottery brand. Features seamless browsing, robust cart management, secure checkout, and an intuitive admin dashboard.</p>
+      <p align="center">
+        <a href="https://basho-by-shivangi.vercel.app/"><b>Live Demo ➔</b></a> | <a href="https://github.com/moizDhila52/basho-by-shivangi"><b>GitHub ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 Wanderlust</h3>
+      <p>A dynamic travel and accommodation booking application designed to connect travelers with unique stays. Includes secure authentication, interactive maps, and real-time booking functionalities.</p>
+      <p align="center">
+        <a href="https://github.com/moizDhila52/Wanderlust"><b>GitHub ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👨‍💻 Personal Portfolio</h3>
+      <p>A highly interactive and visually striking 3D personal portfolio built to showcase my software engineering journey. Features sleek animations, optimized performance, and responsive design.</p>
+      <p align="center">
+        <a href="https://moizdhila52-portfolio.vercel.app/"><b>Live Demo ➔</b></a> | <a href="https://github.com/moizDhila52/Portfolio"><b>GitHub ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**🗄️ Database** <br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres&perline=10" alt="Database"/></a>
+---
 
-**🔧 Industry Standards & Tools** <br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker&perline=10" alt="Tools"/></a>
+### 🛠️ Core Tech Stack
 
-## 🔭 Featured Projects
+<details open>
+  <summary><b>🧠 Machine Learning & AI</b></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,pandas,numpy" />
+</details>
 
-- 🎙️ **[MockMate AI](https://mock-mate-voice-agent.vercel.app/)** | [GitHub Repo](https://github.com/moizDhila52/MockMate-Voice-Agent)
-  An intelligent, voice-based interview preparation tool engineered to simulate realistic interview environments. It leverages AI to provide dynamic, conversational mock interviews, helping users practice technical and behavioral questions while receiving instant feedback to improve communication and problem-solving skills.
+<details open>
+  <summary><b>🎨 Frontend</b></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" />
+</details>
 
-- 🏺 **[Basho by Shivangi](https://basho-by-shivangi.vercel.app/)** | [GitHub Repo](https://github.com/moizDhila52/basho-by-shivangi)
-  A comprehensive, full-stack e-commerce platform developed for a premium pottery brand. It features a seamless user interface for browsing artisanal products, robust cart management, secure checkout flows, and an intuitive admin dashboard to efficiently manage inventory, orders, and customer data.
+<details open>
+  <summary><b>⚙️ Backend, Core & Database</b></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,cpp,c" />
+</details>
 
-- 🌍 **[Wanderlust](https://github.com/moizDhila52/Wanderlust)** | [GitHub Repo](https://github.com/moizDhila52/Wanderlust)
-  A dynamic travel and accommodation booking application designed to connect travelers with unique stays. It includes secure user authentication, interactive maps, detailed property listings, and real-time booking functionalities, delivering a smooth and visually engaging experience for planning global adventures.
+<details open>
+  <summary><b>🔧 Industry Standards & Tools</b></summary>
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker" />
+</details>
 
-- 👨‍💻 **[Personal Portfolio](https://moizdhila52-portfolio.vercel.app/)** | [GitHub Repo](https://github.com/moizDhila52/Portfolio)
-  A highly interactive and visually striking personal portfolio website built to showcase my software engineering journey. It features sleek animations, optimized performance, and a responsive design that beautifully highlights my technical skills, featured projects, open-source contributions, and professional milestones.
+---
 
-
-## 📊 GitHub & Coding Stats
+### 📊 GitHub & Coding Stats
 
 <div align="center">
-  
-[![Moiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moizDhila52&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/moizDhila52)
-[![Moiz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moizDhila52&theme=synthwave&hide_border=true)](https://github.com/moizDhila52)
-
-<br/><br/>
-
-[![Moiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moizDhila52&layout=compact&theme=synthwave&hide_border=true)](https://github.com/moizDhila52)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizDhila52&theme=synthwave&hide_border=true" alt="Moiz's GitHub Stats" width="48%" />
 </div>
 
 ---
+
 <div align="center">
   <i>Let's connect and build something awesome together!</i>
 </div>
