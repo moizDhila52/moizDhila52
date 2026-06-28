@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Moiz!+%F0%9F%91%8B;Full-Stack+Web+Developer;Gearing+up+for+DotSlash+9.0!+%F0%9F%94%A5;ECE+Undergrad+%40+SVNIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Moiz!+%F0%9F%91%8B;Full-Stack+Web+Developer;ECE+Undergrad+%40+SVNIT;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,19 +19,13 @@
 
 ---
 
-### 🚨 Current Status: Hackathon Mode Activated 🚨
-
-I'm currently gearing up for **[DotSlash 9.0](https://hackatdotslash.co.in/)**! 💻🔥
-Catch me and my team building something innovative with zero limits at this 36-hour national-level hackathon organized by ACM NIT Surat from **March 21st - 22nd**. Let's build!
-
----
-
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing my degree in **Electronics and Communication Engineering** at SVNIT.
-- 🏆 Active in Competitive Programming and constantly honing my Data Structures & Algorithms skills.
-- 🤝 Open-source enthusiast (recently contributed to the Strapi repository).
-- 🧠 Exploring **Machine Learning, Artificial Intelligence, and Data Science**.
+I'm a passionate Full-Stack Developer and tech enthusiast constantly exploring the intersection of web development, AI, and software engineering.
+
+- 🎓 Currently pursuing my degree in **Electronics and Communication Engineering** at **SVNIT**.
+- 🏆 Active in **Competitive Programming**, continuously sharpening my Data Structures & Algorithms expertise.
+- 🧠 Exploring and expanding my knowledge in **Machine Learning, Artificial Intelligence, and Data Science**.
 
 ---
 
@@ -102,7 +96,7 @@ Catch me and my team building something innovative with zero limits at this 36-h
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizDhila52&theme=synthwave&hide_border=true" alt="Moiz's GitHub Stats" width="48%" />
